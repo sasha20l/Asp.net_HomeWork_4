@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSettings id="b9e33a89-d766-4780-ade6-980fdd9cfb05" name="MetricsAgentTest" enableDefaultDataCollectors="false" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Description><!--_locID_text="Description1"-->Это - параметры по умолчанию для локального тестового запуска.</Description>
+  <Deployment enabled="false"/>
+</TestSettings>
